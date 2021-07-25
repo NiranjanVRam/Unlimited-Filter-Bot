@@ -21,11 +21,11 @@
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash from my.telegram.org or Use @fhstrgen or @UseTGXBot",
+            "description": "Your API Hash from my.telegram.org",
             "value": ""
         },
         "API_ID": {
-            "description": "Your APP ID from my.telegram.org or Use @fhstrgen or @UseTGXBot",
+            "description": "Your APP ID from my.telegram.org",
             "value": ""
         },
         "AUTH_USERS": {
