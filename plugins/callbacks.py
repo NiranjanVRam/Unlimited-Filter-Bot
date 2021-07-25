@@ -70,7 +70,7 @@ async def cb_handler(client, query):
             [
                 [
                     InlineKeyboardButton(
-                        "Source Code", url="https://t.me/kurachkanjiedukkatte")
+                        "Channel", url="https://t.me/fileshomeofficial")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
