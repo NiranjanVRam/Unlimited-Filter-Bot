@@ -1,31 +1,5 @@
 # Unlimited Filter Bot
 
-
-<p align="center">
-  <a href="https://www.python.org">
-    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
-
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/TroJanzHEX/Unlimited-Filter-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/TroJanzHEX/Unlimited-Filter-Bot?style=social">
-
-  </a>
-  
-  <a href="https://github.com/TroJanzHEX/Unlimited-Filter-Bot/fork">
-    <img src="https://img.shields.io/github/forks/TroJanzHEX/Unlimited-Filter-Bot?label=Fork&style=social">
-
-  </a>  
-</p>
-
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TroJanzHEX)  
-ㅤㅤㅤㅤㅤㅤㅤ  
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
-ㅤㅤㅤㅤㅤㅤㅤ  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Unlimited-Filter-Bot/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Unlimited-Filter-Bot)
-
-
 ## An advanced Filter Bot with nearly unlimitted filters!
 
 
@@ -69,27 +43,20 @@
 
 * `/id`  -  Shows ID information
 
-* `/info <userid>`  -  Shows User Information. Also use `/info` as reply to some message for their details!
+* `/info <userid>`  -  Shows User Information. Also use `/info` as reply to some message for their details.
 
 
-## You can check the video tutorial on how to deploy
-
-[Click here to see tutorial video](https://youtu.be/hkmc3e7U7R4)
-
-Thanks to [InfotelGroup](https://telegram.dog/InFoTel_Group) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
-
-
-## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
+## Any bugs or errors or suggestions, report at [FH Support](https://t.me/fhsupportgrp)
 
 
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Unlimited-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NiranjanVRam/Unlimited-Filter-Bot)
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/TroJanzHEX/Unlimited-Filter-Bot
+git clone https://github.com/NiranjanVRam/Unlimited-Filter-Bot
 cd Unlimited-Filter-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
@@ -101,9 +68,9 @@ python3 bot.py
 
 * TG_BOT_TOKEN  - Get bot token from @BotFather
 
-* API_ID        - From my.telegram.org (or @UseTGXBot)
+* API_ID        - From my.telegram.org
 
-* API_HASH      - From my.telegram.org (or @UseTGXBot)
+* API_HASH      - From my.telegram.org
 
 * AUTH_USERS  - ID of users that can use the bot commands. Get from [MissRose Bot](https://telegram.dog/MissRose_bot) by using /id command
 
