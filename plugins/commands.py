@@ -248,7 +248,7 @@ async def help(client, message):
                 ],
                 [
                     InlineKeyboardButton("Channel", url="https://t.me/fileshomeofficial"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/fhsupportgrp")
+                    InlineKeyboardButton("Support", url="https://t.me/fhhelperbot")
                 ]
             ]
         ),
