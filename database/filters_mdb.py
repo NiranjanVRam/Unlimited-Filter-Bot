@@ -52,7 +52,7 @@ async def find_filter(group_id, name):
 async def get_filters(group_id):
     mycol = mydb[str(group_id)]
 
-    texts = ["ᴘᴏᴡᴇʀᴇᴅ ʙʏ <a href='https://t.me/fhserieschat'>ꜰʜ ᴡᴇʙ-ᴛᴠ ꜱᴇʀɪᴇꜱ</a>"]
+    texts = []
     query = mycol.find()
     try:
         for file in query:
