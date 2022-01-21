@@ -178,7 +178,7 @@ async def bot_status(client,message):
             else:
                 quota_details = ""
         except:
-            print("Check your Heroku API key")
+            print("Check your Heroku API key!!")
             quota_details = ""
     else:
         quota_details = ""
